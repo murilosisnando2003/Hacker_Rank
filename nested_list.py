@@ -9,3 +9,11 @@ print (nested_list[1])
 # prints ['red', 'black']
 print (nested_list[1][0])
 # prints red
+
+
+
+if __name__ == '__main__':
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+
