@@ -9,7 +9,6 @@ import sys
 def simpleArraySum(ar):
     #
     # Write your code here.
-
     soma = sum(ar)
     return soma
 
